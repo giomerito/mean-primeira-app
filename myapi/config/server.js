@@ -8,8 +8,8 @@ const port = process.env.PORT || 1586;
 
 server.use(bodyParser.urlencoded({extended: true}));
 server.use(bodyParser.json());
-server.use(cors);
-server.use(queryParser());
+//server.use(cors);
+//server.use(queryParser());
 
 /*
 server.use(function(req, res, next){
