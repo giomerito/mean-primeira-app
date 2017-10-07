@@ -2,5 +2,4 @@
 
 ### Microservicos
 
-#### PHP
-- http://phphttpclient.com/
+#### PHP - http://phphttpclient.com/
